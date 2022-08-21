@@ -1,1 +1,3 @@
-# link to page: https://bhadzic2.github.io/AboutMePage/
+# link to website: https://bhadzic2.github.io/AboutMePage/
+My CV.
+HTML, CSS
